@@ -1,0 +1,43 @@
+{
+	"storyName": "RANT",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Warning",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Idiot-bot",
+			"senpai-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Rise",
+			"spirit-pixel",
+			[
+				255,
+				120,
+				191
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

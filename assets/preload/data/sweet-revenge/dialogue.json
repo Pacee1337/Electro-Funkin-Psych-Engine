@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Evening kid"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looking for your mom I take it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "D:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) So, this is the little runt we have to smash? How cute"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm not surprised. Bringing your sister to help you defend yourself"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Says the hypocritic one"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't act like you haven't done anything wrong"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I want my revenge!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll beat you, and this time in front of all your little friends"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In front of everyone"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bo badop bep bee bop ba dop rap dop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm gonna make you wish you'd never been assembled"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Try us, you baige cuck."
+		}
+	]
+}

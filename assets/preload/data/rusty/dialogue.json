@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bep ba doop ska doop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ehhh, wait",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "I want a rematch, I was just practicing",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "Don't play dumb with us, jackass.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "You made a deal with us",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Just once more...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "*I told you to destroy them already*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "Shh, they can hear us...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "???",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Uhmm... okay?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Why don't you just knock them out and disarm them?*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "Why don't you just shut up?!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "One more try",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "And I'll let you go",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp"
+		},
+		{
+			"expression": "talk",
+			"text": "UGH, fine",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

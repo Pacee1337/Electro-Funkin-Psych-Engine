@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop beep beep ba dop beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I had more time, I swear I wouldn't want to come here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But the bus takes an eternity to get to the station"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The garbage dump is a great shortcut back to the city"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As long as they don't...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, well, well"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Apparently these two got lost and ended here in Dumpster's territory"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Rustcabs!)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It would be a shame if both of you end up being dismantled"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but it would be a BIG SHAME if you don't give me some of your pieces"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Trust me, you ain't got any other card to play"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's what you think."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If my boyfriend beats you in a music battle, you'll let us go"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's the most idiot bullshit I've ever heard"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why would i do that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What if you need a new speech processor?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmmmm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But if I win, I'm leaving with your processors."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "snp",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AND that kids shirt"
+		}
+	]
+}

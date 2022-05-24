@@ -1,0 +1,34 @@
+{
+	"storyName": "Dumpster Jack",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Trash",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Rusty",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

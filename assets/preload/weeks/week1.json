@@ -1,0 +1,43 @@
+{
+	"storyName": "Mr Stylus",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Meeting",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Duel",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Worth",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

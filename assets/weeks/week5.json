@@ -1,0 +1,43 @@
+{
+	"storyName": "STYLUS TWINS",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sweet-revenge",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Sugar-fail",
+			"parents",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Possesion-eve",
+			"monster",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

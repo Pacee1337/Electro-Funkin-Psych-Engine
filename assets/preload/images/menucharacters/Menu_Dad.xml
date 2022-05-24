@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Dad.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Dad Idle0000" x="0" y="0" width="429" height="767" frameX="-18" frameY="0" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0001" x="0" y="0" width="429" height="767" frameX="-18" frameY="0" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0002" x="429" y="0" width="429" height="767" frameX="0" frameY="-12" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0003" x="429" y="0" width="429" height="767" frameX="0" frameY="-12" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0004" x="858" y="0" width="429" height="767" frameX="-9" frameY="-15" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0005" x="858" y="0" width="429" height="767" frameX="-9" frameY="-15" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0006" x="0" y="767" width="429" height="767" frameX="-9" frameY="-13" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0007" x="0" y="767" width="429" height="767" frameX="-9" frameY="-13" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0008" x="429" y="767" width="429" height="767" frameX="-10" frameY="-10" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0009" x="429" y="767" width="429" height="767" frameX="-10" frameY="-10" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0010" x="858" y="767" width="429" height="767" frameX="-12" frameY="-8" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0011" x="858" y="767" width="429" height="767" frameX="-12" frameY="-8" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0012" x="858" y="767" width="429" height="767" frameX="-12" frameY="-8" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0013" x="858" y="767" width="429" height="767" frameX="-12" frameY="-8" frameWidth="447" frameHeight="782"/>
+	<SubTexture name="M Dad Idle0014" x="858" y="767" width="429" height="767" frameX="-12" frameY="-8" frameWidth="447" frameHeight="782"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M GF Idle",
+	"idle_anim": "M GF Idle",
+	"position": [
+		110,
+		134
+	],
+	"scale": 0.45,
+	"image": "Menu_GF"
+}

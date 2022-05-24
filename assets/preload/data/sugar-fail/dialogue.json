@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This isn't over..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have nothing else to do here"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You were defeated by second time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do not soil your image more than it already is"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) She is right, brother"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) This is not the battlefield"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) Accept your mistake"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) You have nothing else to lose"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sigh*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, I will"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) \"Except your dignity\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SUSIE!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Sis) I'm just joking Joseph, Love you brother"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beps beb bob bebop skee bap bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bab bapeep do ba bop bee bip"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "True"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I won't keep figthing during this holidays"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I want to appologize"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(If I only could explain why I had to lie...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "md",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(But it's difficult to speak when you're \\nthreatened)"
+		}
+	]
+}
